@@ -110,4 +110,4 @@ rancher_kubernetes_engine_config:
       timeout: 120
 windows_prefered_cluster: false
 addons_include:
-  - 
+  - https://raw.githubusercontent.com/gioppoluca/kubeinfra/master/cluster_config/cilium.yaml
